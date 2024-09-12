@@ -9,7 +9,7 @@
 
  👽 hello, my name is izabella christine<br>
  💻I am a student of Systems Analysis and Development, currently advancing as a Junior Back-End Developer. I have knowledge in JavaScript and Programming Logic, and I am at a basic level of English.
-<br📫[linkedin](https://www.linkedin.com/in/izabellachristine/)
+
 
 <h3>Contact Me</h3>
 <div align="left">
