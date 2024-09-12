@@ -11,6 +11,23 @@
  💻I am a student of Systems Analysis and Development, currently advancing as a Junior Back-End Developer. I have knowledge in JavaScript and Programming Logic, and I am at a basic level of English.
 
 
+
+----------
+### Minhas tecnologias 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
+
+
+-----
+
+
+
+
+|cursos | certificados|
+|------- |-------------|
+|javascript| [certificado](https://hermes.dio.me/certificates/CBS1RTPH.pdf)
+
+
 <h3>Contact Me</h3>
 <div align="left">
 <p>
@@ -20,10 +37,6 @@
 <a href="https://www.linkedin.com/in/izabellachristine/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
 </div>
 
-----------
-### Minhas tecnologias 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
 
 
  
