@@ -32,6 +32,7 @@
 |cursos | certificados|
 |------- |-------------|
 |javascript| [certificado](https://hermes.dio.me/certificates/CBS1RTPH.pdf)
+|logica da programação|[certificado](https://hermes.dio.me/certificates/4CCC2334.pdf)
 
 ----
 ![izabellatec GitHub stats](https://github-readme-stats.vercel.app/api?username=izabellatec&show_icons=true&theme=dark)
