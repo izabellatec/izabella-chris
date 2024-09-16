@@ -36,6 +36,9 @@
 
 ----
 ![izabellatec GitHub stats](https://github-readme-stats.vercel.app/api?username=izabellatec&show_icons=true&theme=dark)
+
+
+![izabellatec GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=izabellatec&layout=compact&langs_count=7&theme=dracula)
  
 
 <h3>Contact Me</h3>
