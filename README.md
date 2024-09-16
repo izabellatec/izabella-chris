@@ -20,6 +20,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
 
 
+
+
+
+
 -----
 
 
@@ -29,6 +33,9 @@
 |------- |-------------|
 |javascript| [certificado](https://hermes.dio.me/certificates/CBS1RTPH.pdf)
 
+----
+![izabellatec GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ 
 
 <h3>Contact Me</h3>
 <div align="left">
