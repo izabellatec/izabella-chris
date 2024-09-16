@@ -35,11 +35,13 @@
 |logica da programação|[certificado](https://hermes.dio.me/certificates/4CCC2334.pdf)
 
 ----
-![izabellatec GitHub stats](https://github-readme-stats.vercel.app/api?username=izabellatec&show_icons=true&theme=dark)
+
+![izabellatec GitHub stats](https://github-readme-stats.vercel.app/api?username=izabellatec&show_icons=true&theme=dark) 
 
 
-![izabellatec GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=izabellatec&layout=compact&langs_count=7&theme=dracula)
- 
+ ![izabellatec GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=izabellatec&layout=compact&langs_count=7&theme=dracula)
+
+
 
 <h3>Contact Me</h3>
 <div align="left">
@@ -49,6 +51,11 @@
 </a>
 <a href="https://www.linkedin.com/in/izabellachristine/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
 </div>
+
+<p>
+  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=izabellatec&layout=compact&langs_count=7&theme=dracula" alt="Anurag's GitHub stats" width="45%" style="display:inline-block; vertical-align:top;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=izabellatec&show_icons=true&theme=dark" alt="Anurag's Top Languages" width="45%" style="display:inline-block; vertical-align:top;" />
+</p>
 
 
 
