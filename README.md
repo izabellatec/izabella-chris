@@ -34,7 +34,7 @@
 |javascript| [certificado](https://hermes.dio.me/certificates/CBS1RTPH.pdf)
 
 ----
-![izabellatec GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![izabellatec GitHub stats](https://github-readme-stats.vercel.app/api?username=izabellatec_icons=true&theme=dracula)
  
 
 <h3>Contact Me</h3>
