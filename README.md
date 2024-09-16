@@ -3,7 +3,7 @@
  <CENTER><H2> HELLO DEV, WELCOME MY WORLD I'M IZABELLA CHRISTINE</H2></CENTER>
 
  <p align="center">
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=790b7611mqlqf8aim6avgx5c3uveqqwm0gvnpmhtis1kqfwm&ep=v1_gifs_search&rid=200.webp&ct=g" alt="gif dev" width="400px">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=790b7611mqlqf8aim6avgx5c3uveqqwm0gvnpmhtis1kqfwm&ep=v1_gifs_search&rid=200.webp&ct=g" alt="gif dev" width="400px" height="auto">
 </p>
 
 
