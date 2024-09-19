@@ -12,6 +12,11 @@
  👽 hello, my name is izabella christine<br>
  💻I am a student of Systems Analysis and Development, currently advancing as a Junior Back-End Developer. I have knowledge in JavaScript and Programming Logic, and I am at a basic level of English.
 
+ 👽  Olá, meu nome é Izabella Christine.
+ 💻 Sou estudante de Análise e Desenvolvimento de Sistemas e estou avançando como Desenvolvedora Back-End Júnior. Tenho conhecimento em JavaScript e Lógica de Programação, e meu nível de inglês atualmente esta no básico.
+
+
+
 
 
 ----------
@@ -42,7 +47,7 @@
  ![izabellatec GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=izabellatec&layout=compact&langs_count=7&theme=dracula)
 
 
-
+<>
 <h3>Contact Me</h3>
 <div align="left">
 <p>
