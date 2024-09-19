@@ -12,7 +12,7 @@
  👽 hello, my name is izabella christine<br>
  💻I am a student of Systems Analysis and Development, currently advancing as a Junior Back-End Developer. I have knowledge in JavaScript and Programming Logic, and I am at a basic level of English.
 
- 👽  Olá, meu nome é Izabella Christine.
+ 👽  Olá, meu nome é Izabella Christine.<br>
  💻 Sou estudante de Análise e Desenvolvimento de Sistemas e estou avançando como Desenvolvedora Back-End Júnior. Tenho conhecimento em JavaScript e Lógica de Programação, e meu nível de inglês atualmente esta no básico.
 
 
