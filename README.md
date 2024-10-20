@@ -48,7 +48,8 @@
 
 
 
-<h3>Contact Me</h3>
+<h3>Contact Me</h3> ![image](https://github.com/user-attachments/assets/98566f98-29b6-488c-ae8c-f1f01d6dbbc6)
+
 <div align="left">
 <p>
 <a href="mailto:izabella_hto18@hotmail.com">
