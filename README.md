@@ -47,7 +47,6 @@
  ![izabellatec GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=izabellatec&layout=compact&langs_count=7&theme=dracula)
 
 
-
 <div class="contact-section">
   <h3>Contact Me</h3>
   <img src="https://github.com/user-attachments/assets/98566f98-29b6-488c-ae8c-f1f01d6dbbc6" alt="phone" width="50px">
@@ -62,16 +61,23 @@
   .contact-section h3 {
     margin-right: 10px; /* Espaço entre o texto e a imagem */
   }
+  
+  .contact-links {
+    margin-top: 20px; /* Espaço entre os links e a seção de contato */
+  }
 </style>
 
-<div align="left">
-<p>
-<a href="mailto:izabella_hto18@hotmail.com">
-<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
-</a>
-<a href="https://www.linkedin.com/in/izabellachristine/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
+<!-- Seção de links de contato -->
+<div class="contact-links" align="left">
+  <p>
+    <a href="mailto:izabella_hto18@hotmail.com">
+      <img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&logo=microsoft-outlook&logoColor=6ED2B6&color=020114" alt="E-mail">
+    </a>
+    <a href="https://www.linkedin.com/in/izabellachristine/">
+      <img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&logo=linkedin&logoColor=6ED2B6&color=020114" alt="LinkedIn">
+    </a>
+  </p>
 </div>
-
 
 
 
