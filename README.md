@@ -2,6 +2,22 @@
 
  <CENTER><H2> HELLO DEV, WELCOME MY WORLD I'M IZABELLA CHRISTINE</H2></CENTER>
 
+ <style>
+  .contact-section {
+    display: flex;
+    align-items: center; /* Alinha a imagem e o texto verticalmente */
+  }
+  
+  .contact-section h3 {
+    margin-right: 10px; /* Espaço entre o texto e a imagem */
+  }
+  
+  .contact-links {
+    margin-top: 20px; /* Espaço entre os links e a seção de contato */
+  }
+</style>
+
+
  <p align="center">
   <img src="https://user-images.githubusercontent.com/60843507/111036837-4af44900-8447-11eb-9cbd-776fd4737549.gif" alt="gif dev">
 </p>
@@ -51,21 +67,6 @@
   <h3>Contact Me</h3>
   <img src="https://github.com/user-attachments/assets/98566f98-29b6-488c-ae8c-f1f01d6dbbc6" alt="phone" width="50px">
 </div>
-
-<style>
-  .contact-section {
-    display: flex;
-    align-items: center; /* Alinha a imagem e o texto verticalmente */
-  }
-  
-  .contact-section h3 {
-    margin-right: 10px; /* Espaço entre o texto e a imagem */
-  }
-  
-  .contact-links {
-    margin-top: 20px; /* Espaço entre os links e a seção de contato */
-  }
-</style>
 
 <!-- Seção de links de contato -->
 <div class="contact-links" align="left">
