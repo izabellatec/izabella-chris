@@ -1,7 +1,7 @@
 
 
  <CENTER><H2> HELLO DEV, WELCOME MY WORLD I'M IZABELLA CHRISTINE</H2></CENTER>
- 
+
  <p align="center">
   <img src="https://user-images.githubusercontent.com/60843507/111036837-4af44900-8447-11eb-9cbd-776fd4737549.gif" alt="gif dev">
 </p>
@@ -47,10 +47,6 @@
  ![izabellatec GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=izabellatec&layout=compact&langs_count=7&theme=dracula)
 
 
-<div class="contact-section">
-  <h3>Contact Me</h3>
-  <img src="https://github.com/user-attachments/assets/98566f98-29b6-488c-ae8c-f1f01d6dbbc6" alt="phone" width="50px">
-</div>
 
 <!-- Seção de links de contato -->
 <div class="contact-links" align="left">
