@@ -50,7 +50,7 @@
 
 <div class="contact-section">
   <h3>Contact Me</h3>
-  <img src="https://github.com/user-attachments/assets/98566f98-29b6-488c-ae8c-f1f01d6dbbc6" alt="phone" width="200px">
+  <img src="https://github.com/user-attachments/assets/98566f98-29b6-488c-ae8c-f1f01d6dbbc6" alt="phone" width="150px">
 </div>
 
 <style>
@@ -63,6 +63,7 @@
     margin-right: 10px; /* Espaço entre o texto e a imagem */
   }
 </style>
+
 <div align="left">
 <p>
 <a href="mailto:izabella_hto18@hotmail.com">
