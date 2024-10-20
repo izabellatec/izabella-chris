@@ -50,7 +50,7 @@
 
 <div class="contact-section">
   <h3>Contact Me</h3>
-  <img src="https://github.com/user-attachments/assets/98566f98-29b6-488c-ae8c-f1f01d6dbbc6" alt="phone" width="150px">
+  <img src="https://github.com/user-attachments/assets/98566f98-29b6-488c-ae8c-f1f01d6dbbc6" alt="phone" width="50px">
 </div>
 
 <style>
